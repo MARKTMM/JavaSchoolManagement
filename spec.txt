@@ -1,1 +1,45 @@
-Create "School Management System" - "Principal, Teachers, Staff, Non-Academic Staff, Students, Courses, Classes, Applicants"
+Create "School Management System" - "Principal, Teachers, Staff, Non-Academic Staff, Students, Courses, Classes and Applicants"
+
+// School Management System
+
+// School
+Principal
+Teachers
+Students
+Finance officer
+Courses
+Classes
+Applicants
+
+// Principal
+id
+name
+Receives Salary
+Expel a student
+Admit applicants based on age
+
+// Teachers
+id
+name
+Receives salary
+Teach a course
+
+//Students
+id
+name
+course
+Classes
+fees paid
+
+//Finance officer
+id
+name
+payments for expenses such as supplies, utilities, and salaries
+Managing financial transactions and records
+
+
+//Courses
+Represents a course offered at the School
+
+//Classes
+Represents a class (e.g., 10th grade, 11th grade, etc.).
